@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-stickers-hw/static/css/main.f855e6bc.css",
+    "main.js": "/react-stickers-hw/static/js/main.671819a5.js",
+    "index.html": "/react-stickers-hw/index.html",
+    "main.f855e6bc.css.map": "/react-stickers-hw/static/css/main.f855e6bc.css.map",
+    "main.671819a5.js.map": "/react-stickers-hw/static/js/main.671819a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.671819a5.js"
+  ]
+}
